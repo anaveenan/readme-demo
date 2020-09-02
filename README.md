@@ -1,7 +1,7 @@
 # Numberstring
 
 The `numberstring` package can transalate integers into string in python  
-![](happyface.png)
+<img src="happyface.png" width=125 height=125 align="right">
 
 ## Installation 
 
