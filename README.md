@@ -2,6 +2,8 @@
 
 The `numberstring` package can transalate integers into string in python  
 
+![]("happyface.png")
+
 ## Installation 
 
 You can install via `pip` 
