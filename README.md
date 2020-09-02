@@ -1,4 +1,5 @@
 ![](https://img.shields.io/github/license/anaveenan/readme-demo)
+![](https://img.shields.io/github/repo-size/anaveenan/readme-demo)
 # Numberstring
 
 The `numberstring` package can transalate integers into string in python  
